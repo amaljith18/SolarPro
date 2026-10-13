@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "url": "https://www.figma.com/api/mcp/asset/316edebe-a586-4e90-8be1-a70bec374079.png",
+    "width": 1376,
+    "height": 768,
+    "widths": [640, 1024, 1376]
+  },
+  "installer": {
+    "url": "https://www.figma.com/api/mcp/asset/782f3249-ec2a-425c-8205-be7468865268.png",
+    "width": 1200,
+    "height": 896,
+    "widths": [480, 800, 1200]
+  },
+  "service-residential": {
+    "url": "https://www.figma.com/api/mcp/asset/bf7e6a4d-f6fa-43bf-8e71-b15150bf0fc8.png",
+    "width": 1264,
+    "height": 848,
+    "widths": [400, 640, 960]
+  },
+  "service-commercial": {
+    "url": "https://www.figma.com/api/mcp/asset/6b11d9d2-bd74-419d-8c1b-1bd38fab4b46.png",
+    "width": 1264,
+    "height": 848,
+    "widths": [400, 640, 960]
+  },
+  "service-industrial": {
+    "url": "https://www.figma.com/api/mcp/asset/16f130d3-04f1-4712-bc59-a5cbbd463e91.png",
+    "width": 1264,
+    "height": 848,
+    "widths": [400, 640, 960]
+  },
+  "service-maintenance": {
+    "url": "https://www.figma.com/api/mcp/asset/d4a65729-8976-4711-905c-426b351f40b9.png",
+    "width": 1264,
+    "height": 848,
+    "widths": [400, 640, 960]
+  },
+  "project-residential": {
+    "url": "https://www.figma.com/api/mcp/asset/86ee7d97-eacb-43d4-b3b0-593137ccb3e8.png",
+    "width": 1264,
+    "height": 848,
+    "widths": [480, 800, 1200]
+  },
+  "project-commercial": {
+    "url": "https://www.figma.com/api/mcp/asset/5f941626-c080-4013-a891-558adee25bc4.png",
+    "width": 1264,
+    "height": 848,
+    "widths": [480, 800, 1200]
+  },
+  "project-industrial": {
+    "url": "https://www.figma.com/api/mcp/asset/7f76c3db-1457-4ad1-869e-54befa290948.png",
+    "width": 1264,
+    "height": 848,
+    "widths": [480, 800, 1200]
+  },
+  "cta": {
+    "url": "https://www.figma.com/api/mcp/asset/eb3b68cf-66f0-468c-9125-135ad1569940.png",
+    "width": 1584,
+    "height": 672,
+    "widths": [768, 1280, 1584]
+  }
+}
